@@ -1,5 +1,15 @@
 # Electronic Components Inventory — Demo
 
+[![Live demo](https://img.shields.io/badge/Live_demo-demo--components--inventory-1D6B42?logo=netlify&logoColor=white)](https://demo-components-inventory.netlify.app)
+
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-8-CA4245?logo=reactrouter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7-3178C6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%E2%89%A520.15-5FA04E?logo=nodedotjs&logoColor=white)
+![Tests](https://img.shields.io/badge/tests-node%3Atest-339933?logo=nodedotjs&logoColor=white)
+![Netlify](https://img.shields.io/badge/hosted_on-Netlify-00C7B7?logo=netlify&logoColor=white)
+
 A parts inventory for an electronics lab: scan the labels on parts bags and reels, sort parts into folders, keep
 reorder lists you can export to Excel, and build boards from a PCB's BOM so stock goes down by exactly what was used.
 
