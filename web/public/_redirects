@@ -1,0 +1,2 @@
+# Client-side routes (/scan, /review/12, ...) all load the React app.
+/*  /index.html  200

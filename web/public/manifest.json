@@ -1,0 +1,9 @@
+{
+  "name": "Electronic Components Inventory — Demo",
+  "short_name": "Parts Demo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d100e",
+  "theme_color": "#1d6b42",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
